@@ -1,40 +1,36 @@
-<!-- This file goes in a repo named exactly CyrilEtornam/CyrilEtornam (create it if it doesn't exist yet) -->
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=whoami;Cyril+Etornam+Nyavor;aka+Shampoo+(don%27t+ask);Computer+Engineer+%E2%80%94+UG%2C+Legon;based+in+Accra%2C+Ghana" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=650&lines=whoami;Cyril+Etornam+Nyavor;Computer+Engineer;based+in+Accra%2C+Ghana" alt="typing banner" />
 
 </div>
 
 ```bash
 $ whoami
-Cyril Etornam Nyavor — final-year Computer Engineering student, University of Ghana, Legon
-also answers to "Shampoo," but only to people who already know that
+Cyril Etornam Nyavor | Computer Engineer
 
 $ echo $STATUS
-open to internships, national service placements, engineering roles, CTF team-ups
+open to internships, national service placements, engineering roles, CTF & Hackathon team-ups
 ```
 
 ```text
 $ neofetch --no-logo
 -----------------------------------
 OS:        Ubuntu
-Shell:     bash, tabs > spaces, not up for debate
+Shell:     bash
 Editor:    VS Code
-Browser:   Firefox
-Tools:     Claude — genuine dependency, not a bit
-Focus:     deep house, loud enough to drown out doubt
-Debug:     "Chale!" -> opens a new Google tab
+Browser:   Brave
+Tools:     Claude, Git
+Focus:     deep house music on loop while doing literally anyting
 Location:  Accra, Ghana
 -----------------------------------
 ```
 
 ```bash
 $ cat currently.md
-- chasing the AWS Cloud Practitioner cert via AmaliTech's re/Start program
-- building an SNMP + ML anomaly detector for UG's live campus network (final year project)
-- still coming down from picoCTF 2026 — #147 of 1,131 on the Africa leaderboard
-- losing, repeatedly, to bots in Xonotic
+- pursuing the AWS Cloud Practitioner certification via AmaliTech's re/Start program
+- building an SNMP + ML anomaly detector for a live campus network (final-year project)
+- placed #147 of 1,131 on the Africa leaderboard, picoCTF 2026
+- occasionally unwinding with a round of Xonotic
 ```
 
 ```bash
@@ -44,7 +40,7 @@ drwxr-xr-x  ghana-ers/               distributed emergency response platform —
 drwxr-xr-x  network-anomaly-fyp/     SNMP + ML fault detection on a live campus network — in progress
 drwxr-xr-x  spaces/                  campus facility booking system, role-based access
 drwxr-xr-x  acoustic-pest-guardian/  FFT-based pest deterrent — ESP32 + audio frequency analysis
-drwxr-xr-x  network-defense-sims/    VLAN/ACL/port-security labs — breaking things on purpose, for science
+drwxr-xr-x  network-defense-sims/    VLAN/ACL/port-security labs — controlled break-and-fix exercises
 ```
 
 ```yaml
@@ -81,20 +77,17 @@ $ fetch --stats
 
 ```bash
 $ contact --list
-email     cyrilnyavor@gmail.com
-linkedin  linkedin.com/in/cyril-nyavor
-github    github.com/CyrilEtornam
-site      cyrilnyavor.vercel.app   # update when the domain's sorted
 ```
 
-```bash
-$ cat quirks.log
-[WARN] sucks lower lip when concentrating — confirmed by multiple witnesses
-[INFO] forgets movies almost immediately after watching them
-[INFO] tabs > spaces — closed thread, do not reopen
-```
-
+| | |
+|---|---|
+| email | [cyrilnyavor@gmail.com](mailto:cyrilnyavor@gmail.com) |
+| linkedin | [linkedin.com/in/cyril-nyavor](https://linkedin.com/in/cyril-nyavor) |
+| github | [github.com/CyrilEtornam](https://github.com/CyrilEtornam) |
+| site | [cyrilnyavor.vercel.app](https://cyrilnyavor.vercel.app) .... will update when I can afford a domain
 ```bash
 $ aws sts get-caller-identity --certified
 AccessDenied: still working on it
 ```
+
+<div align="center"><b>Made with ❤️ by cyril</b></div>   
