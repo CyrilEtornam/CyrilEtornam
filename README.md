@@ -90,4 +90,18 @@ $ aws sts get-caller-identity --certified
 AccessDenied: still working on it
 ```
 
+```bash
+$ ls -la ./certifications
+```
+
+<div align="center">
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad9de449-95e9-4d77-ad64-f5b7d8213839" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e16a2058-db03-4d7b-aa5b-e45acb4aa66d" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7dcb6126-fdaa-4f2e-a6e8-f7cc58a11749" data-share-badge-host="https://www.credly.com"></div>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9053db01-642c-4f49-8d78-c144fc7e4bb2" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+</div>
+
 <div align="center"><b>Made with ❤️ by cyril</b></div>   
