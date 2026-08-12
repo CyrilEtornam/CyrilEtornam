@@ -96,11 +96,7 @@ $ ls -la ./certifications
 
 <div align="center">
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ad9de449-95e9-4d77-ad64-f5b7d8213839" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e16a2058-db03-4d7b-aa5b-e45acb4aa66d" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7dcb6126-fdaa-4f2e-a6e8-f7cc58a11749" data-share-badge-host="https://www.credly.com"></div>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9053db01-642c-4f49-8d78-c144fc7e4bb2" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<a href="https://www.credly.com/badges/ad9de449-95e9-4d77-ad64-f5b7d8213839/public_url"><img src="https://images.credly.com/images/978f88dc-c247-4093-9d39-6efac3651297/linkedin_thumb_image.png" alt="Network Technician Career Path issued by Cisco" width="150" /></a> <a href="https://www.credly.com/badges/e16a2058-db03-4d7b-aa5b-e45acb4aa66d/public_url"><img src="https://images.credly.com/images/44e2c252-5d19-4574-9646-005f7225bf53/linkedin_thumb_image.png" alt="AWS re/Start Graduate issued by Amazon Web Services Training and Certification" width="150" /></a> <a href="https://www.credly.com/badges/7dcb6126-fdaa-4f2e-a6e8-f7cc58a11749/public_url"><img src="https://images.credly.com/images/8bf3e17f-1982-4539-a1f7-ba85c749407a/linkedin_thumb_blob" alt="Networking Academy Learn-A-Thon 2025 issued by Cisco" width="150" /></a> <a href="https://www.credly.com/badges/9053db01-642c-4f49-8d78-c144fc7e4bb2/public_url"><img src="https://images.credly.com/images/e51a8579-188d-4363-8ed1-12ad164ef57b/linkedin_thumb_blob" alt="AWS Educate Introduction to Cloud 101 - Training Badge issued by Amazon Web Services Training and Certification" width="150" /></a>
 
 </div>
 
