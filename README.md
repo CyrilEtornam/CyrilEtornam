@@ -1,11 +1,9 @@
-<h1 align="center">Cyril Etornam</h1>
+**Hi! I’m Cyril.**
 
-```console
-$ whoami
-Cyril Etornam Nyavor | Computer Engineering student | Accra, Ghana
-```
+I do engineering because I wanted to build things that are useful to people, and that has not really changed. These days, I spend a lot of time around networks, cloud services, security, software, embedded systems... anything remotely fun or boring. I like figuring out how the pieces connect, that way I can make the whole thing much better.
 
-Hey! I’m Cyril. I do engineering because I wanted to build things that are useful to people, and that has not really changed. These days, I spend a lot of time around networks, cloud services, security, software, embedded systems... anything remotely fun or boring. I like figuring out how the pieces connect, that way I can make the whole thing much better.
+<details>
+<summary>See more</summary>
 
 For me, I work through problems pretty calmly: read, test, break things, but keep going until they start to make sense. Network and cloud engineering is where I am heading, though a good hardware idea or a practical product problem can still pull me in.
 
@@ -79,3 +77,5 @@ The stack:
 - Email: [cyrilnyavor@gmail.com](mailto:cyrilnyavor@gmail.com)
 
 If you are working on something interesting, whether it is a role, project, experiment, or just a good conversation, I would be glad to hear about it.
+
+</details>
